@@ -1,7 +1,6 @@
-# 羅設第13組final project
-程式碼在LD_final_project.v
+# 羅設final project
 
-## 這是pin角
+## pin角
 ```
 COMM[1]	Location	PIN_129
 COMM[2]	Location	PIN_132
