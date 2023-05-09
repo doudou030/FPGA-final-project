@@ -1,6 +1,6 @@
 # 羅設final project
 
-## pin角
+## pin assignment
 ```
 COMM[1]	Location	PIN_129
 COMM[2]	Location	PIN_132
