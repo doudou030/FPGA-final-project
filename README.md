@@ -1,5 +1,4 @@
 # 邏設final project
-- [Demo影片連結](https://www.youtube.com/watch?v=zxxMkmVipjY)
 - FPGA：Cyclone3 EP3C10E144C8
 - software : Quartus 13.1 
 ## pin assignment
