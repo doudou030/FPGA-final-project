@@ -8,6 +8,11 @@
 
 更改通關及死亡的畫面及難易度
 
+## 影片
+
+連結壞掉了...不好意思...
+
+
 ## pin assignment
 ```
 COMM[1]	Location	PIN_129
