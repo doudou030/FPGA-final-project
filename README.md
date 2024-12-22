@@ -1,6 +1,13 @@
 # 邏設final project
 - FPGA：Cyclone3 EP3C10E144C8
-- software : Quartus 13.1 
+- software : Quartus 13.1
+
+## 題目
+
+閃躲遊戲，修改他人專案(莫炳浩 105321066_7167680_assignsubmission_file_)
+
+更改通關及死亡的畫面及難易度
+
 ## pin assignment
 ```
 COMM[1]	Location	PIN_129
